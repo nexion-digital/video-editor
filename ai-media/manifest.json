@@ -14,6 +14,11 @@
    "jobId": "jobmr9qbzw97ir",
    "file": "nebula-background.mp4",
    "note": "deep blue nebula background (procedural render)"
+  },
+  {
+   "jobId": "gfx-logo-cog-spin-v1",
+   "file": "logo-cog-spin.webm",
+   "note": "logo \u2014 cog spins slowly, letters & trails static (transparent, 10s loop)"
   }
  ]
 }
