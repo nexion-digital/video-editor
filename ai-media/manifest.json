@@ -1,0 +1,19 @@
+{
+ "items": [
+  {
+   "jobId": "gfx-gradient-background-v1",
+   "file": "gradient-background.mp4",
+   "note": "animated gradient background (Remotion)"
+  },
+  {
+   "jobId": "gfx-title-reveal-v1",
+   "file": "title-reveal.webm",
+   "note": "transparent title overlay (Remotion)"
+  },
+  {
+   "jobId": "jobmr9qbzw97ir",
+   "file": "nebula-background.mp4",
+   "note": "deep blue nebula background (procedural render)"
+  }
+ ]
+}
