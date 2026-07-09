@@ -16,9 +16,9 @@
    "note": "deep blue nebula background (procedural render)"
   },
   {
-   "jobId": "gfx-logo-spin-color-v1",
+   "jobId": "gfx-logo-spin-color-v2",
    "file": "logo-spin-color.webm",
-   "note": "MotionOps logo, original colors \u2014 ring spins (6s loop), letters & trails static"
+   "note": "MotionOps logo \u2014 ring spins (1 turn/6s), 30s seamless loop, letters & trails static"
   }
  ]
 }
